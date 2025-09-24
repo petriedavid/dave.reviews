@@ -24,6 +24,18 @@ section:hover {
     transform: translateY(-5px);
 }
 
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* centers horizontally */
+    justify-content: center;
+    text-align: center;
+    /* makes sure text inside is centered */
+    margin-top: 40px;
+}
+
+
 
 .name {
     color: #FFFFFF;
@@ -32,6 +44,8 @@ section:hover {
     text-align: center;
     letter-spacing: 2px;
     margin: 60px 0 20px;
+    margin-bottom: 20px;
+    /* add spacing before icons */
     transition: text-shadow 0.5s ease-in-out;
 }
 
@@ -43,9 +57,8 @@ section:hover {
 .contact-list {
     list-style: none;
     display: flex;
-    justify-content: center;
     gap: 24px;
-    padding-bottom: 40px;
+    padding: 0;
     margin: 0;
     border-bottom: 1px solid #2E2E2E;
 }
@@ -145,7 +158,7 @@ p {
     position: absolute;
     width: 6px;
     height: 6px;
-    background: rgba(255, 255, 255, 0.25);
+    background: rgba(0, 89, 255, 0.648);
     border-radius: 50%;
     animation: drift 15s linear infinite;
 }
