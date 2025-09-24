@@ -1,6 +1,6 @@
 # dave.reviews
-Minimal, high-contrast portfolio.  
-**Tagline:** Enterprise Tech Integration · AI & Blockchain.  
-**Live:** https://dave.reviews  |  **Contact:** [LinkedIn](...), [Email](...)
-**Tech:** HTML, CSS.  
-**Highlights:** PixelPilotz RPC (~$180,000 raise), ML for IDS/SIEM.
+minimal, high-contrast portfolio.  
+**what are you gonna read about:** eti @ psu + ai & blockchain technologies
+**site:** https://dave.reviews 
+**what was used:** html and css
+**basically summed up:** ids/siem ai ml, non-con rpc, my school info
